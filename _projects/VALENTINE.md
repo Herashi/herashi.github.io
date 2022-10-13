@@ -1,8 +1,6 @@
 ---
 title: "the Virtual AppLication-supported ENvironment To INcrease Exercise (VALENTINE) Study"
 collection: projects
-type: "GSRA"
-permalink: /projects/VALENTINE
 ---
 
 [Link Here](https://clinicaltrials.gov/ct2/show/NCT04587882)
