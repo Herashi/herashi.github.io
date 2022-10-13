@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 2"
-collection: teaching
+collection: projects
 type: "Workshop"
 permalink: /projects/2015-spring-teaching-1
 venue: "University 1, Department"
