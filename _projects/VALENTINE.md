@@ -1,5 +1,5 @@
 ---
-title: "the Virtual AppLication-supported ENvironment To INcrease Exercise (VALENTINE) Study"
+title: "The Virtual AppLication-supported ENvironment To INcrease Exercise (VALENTINE) Study"
 collection: projects
 excerpt: "The researchers are trying to determine whether a smartwatch and a mobile application, which together deliver activity and goal setting notifications, can increase activity levels for patients enrolled in cardiac rehabilitation."
 ---
