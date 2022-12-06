@@ -32,8 +32,8 @@ Causal Inference; Causal Excursion Effect; Just-In-Time Adaptive Interventions; 
 
 ## :mega: News
 
-  - 2022.11.20  Submitted "Estimating Time-Varying Direct and Indirect Causal Excursion Effects with Longitudinal Binary Outcomes" to *Biometrics* for publication!
-  - 2022.10.05  My first paper [Assessing Time-Varying Causal Effect Moderation in the Presence of Cluster-Level Treatment Effect Heterogeneity](https://arxiv.org/abs/2102.01681) is accepted by *Biometrika* for publication!  
+  - 2022.11.20  Submitted [Estimating Time-Varying Direct and Indirect Causal Excursion Effects with Longitudinal Binary Outcomes](https://arxiv.org/abs/2212.01472) to *Biometrics* for publication!
+  - 2022.10.05  My first paper [Assessing Time-Varying Causal Effect Moderation in the Presence of Cluster-Level Treatment Effect Heterogeneity](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac065/6845450?utm_source=advanceaccess&utm_campaign=biomet&utm_medium=email) is published by *Biometrika*!  
   - 2022.8.31  Done with my dissertation proposal! :woman_student:
   - 2022.8.10  Presented my work in JSM 2022!  
 
