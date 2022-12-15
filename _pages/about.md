@@ -32,6 +32,7 @@ Causal Inference; Causal Excursion Effect; Just-In-Time Adaptive Interventions; 
 
 ## :mega: News
 
+  - 2022.12.14 I have been selected as a recipient of a travel award for the 14th International Conference on Health Policy Statistics ([ICHPS](https://ww2.amstat.org/meetings/ichps/2023/index.cfm))!
   - 2022.11.20  Submitted [Estimating Time-Varying Direct and Indirect Causal Excursion Effects with Longitudinal Binary Outcomes](https://arxiv.org/abs/2212.01472) to *Biometrics* for publication!
   - 2022.10.05  My first paper [Assessing Time-Varying Causal Effect Moderation in the Presence of Cluster-Level Treatment Effect Heterogeneity](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac065/6845450?utm_source=advanceaccess&utm_campaign=biomet&utm_medium=email) is published by *Biometrika*!  
   - 2022.8.31  Done with my dissertation proposal! :woman_student:
