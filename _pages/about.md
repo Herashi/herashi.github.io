@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-Hello! I am a Ph.D. candidate in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://umich.edu/) advised by Dr. [Walter Dempsey](https://wdempsey.github.io/) and Dr. [Zhenke Wu](https://zhenkewu.com/). 
+Hello! I am a Ph.D. candidate in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://umich.edu/) advised by Dr. [Walter Dempsey](https://walterhdempsey.com/) and Dr. [Zhenke Wu](https://zhenkewu.com/). 
 
 ------
 
