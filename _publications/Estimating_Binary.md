@@ -1,7 +1,7 @@
 ---
 title: "Estimating Time-Varying Direct and Indirect Causal Excursion Effects with Longitudinal Binary Outcomes"
 collection: publications
-permalink: /publication/2022-12-05-paper-title
+permalink: /publication/Estimating-Binary-Outcome-MRT
 date: 2022-12-05
 venue: 'Arxiv'
 ---
