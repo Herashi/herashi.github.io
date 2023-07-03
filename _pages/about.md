@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-Hello! I am a Ph.D. candidate in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://umich.edu/) advised by Dr. [Walter Dempsey](https://walterhdempsey.com/) and Dr. [Zhenke Wu](https://zhenkewu.com/). 
+Hello! I am a Ph.D. candidate in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://umich.edu/) advised by Dr. [Walter Dempsey](https://walterhdempsey.com/) and Dr. [Zhenke Wu](https://zhenkewu.com/). In Fall 2023, I will be a Postdoctoral Research Fellow in the Statistical Laboratory, [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at the University of Cambridge with Dr. [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/).
 
 ------
 
@@ -37,6 +37,6 @@ Causal Inference; Causal Excursion Effect; Just-In-Time Adaptive Interventions; 
   - 2023.5.23  Presented my work in ACIC 2023 at Austin!
   - 2023.3.22  Presented my work in ENAR 2023 at Nashville! 
   - 2022.12.14 I have been selected as a recipient of a travel award for the 14th International Conference on Health Policy Statistics ([ICHPS](https://ww2.amstat.org/meetings/ichps/2023/index.cfm))!
-  - 2022.11.20  Submitted [Estimating Time-Varying Direct and Indirect Causal Excursion Effects with Longitudinal Binary Outcomes](https://arxiv.org/abs/2212.01472) on arXiv!
+  - 2022.11.20  Submitted [Estimating Time-Varying Direct and Indirect Causal Excursion Effects with Longitudinal Binary Outcomes](https://arxiv.org/abs/2212.01472) on *arXiv*!
   - 2022.10.05  My first paper [Assessing Time-Varying Causal Effect Moderation in the Presence of Cluster-Level Treatment Effect Heterogeneity](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac065/6845450?utm_source=advanceaccess&utm_campaign=biomet&utm_medium=email) is published by *Biometrika*!  
 
