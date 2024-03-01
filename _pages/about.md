@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-Hello! I am a Ph.D. candidate in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://umich.edu/) advised by Dr. [Walter Dempsey](https://walterhdempsey.com/) and Dr. [Zhenke Wu](https://zhenkewu.com/). In Fall 2023, I will be a Postdoctoral Research Fellow in the Statistical Laboratory, [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at the University of Cambridge with Dr. [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/).
+Hello! I am a Postdoctoral Research Associate in the Statistical Laboratory, [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at the University of Cambridge working with Dr. [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/). I obtained my Ph.D.in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://umich.edu/) advised by Dr. [Walter Dempsey](https://walterhdempsey.com/) and Dr. [Zhenke Wu](https://zhenkewu.com/). 
 
 ------
 
@@ -31,6 +31,7 @@ Causal Inference; Causal Excursion Effect; Just-In-Time Adaptive Interventions; 
 ------
 
 ## :mega: News
+  - 2023.12.18  Presented my work in ICSDS 2023 at Lisbon, Portugal!
   - 2023.6.29  Submitted [Incorporating Auxiliary Variables to Improve the Efficiency of Time-Varying Treatment Effect Estimation](https://arxiv.org/abs/2306.17260) on *arXiv*!
   - 2023.6.28  Submitted [A Meta-Learning Method for Estimation of Causal Excursion Effects to Assess Time-Varying Moderation](https://arxiv.org/abs/2306.16297) on *arXiv*!
   - 2023.6.15  Successfully defended my PhD dissertation (with a [tweet](https://twitter.com/HeraShi96/status/1669738794021531650))! :woman_student:
