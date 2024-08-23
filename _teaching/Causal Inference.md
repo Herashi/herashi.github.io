@@ -1,5 +1,5 @@
 ---
-title: "Causal inference1"
+title: "Causal inference"
 collection: teaching
 type: "Part III Master Level Class"
 permalink: /teaching/causalpartiii
