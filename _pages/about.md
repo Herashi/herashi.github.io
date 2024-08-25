@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+<!-- -*- coding: iso-8859-1 -*- -->
 ---
 
 ## About Me
@@ -14,23 +15,17 @@ Hello! I am a Postdoctoral Research Associate in the Statistical Laboratory, [De
 
 ------
 
-### Research Theme:
+### 📖 Research Keywords:
 
-My doctoral research focuses on developing robust and efficient methodologies to evaluate causal excursion effects in sequential, adaptive intervention experiments. My work leverages new experimental approaches, such as micro-randomized trials (MRTs), as well as causal inference and supervised learning methods. The general theme of my research is to advance a more relevant, valid, and precise assessment of digital health intervention effects in the new context of time-varying treatments and repeated outcomes with clustering, interference, and high-dimensional nuisance parameters. 
-
-### Keywords: 
-
-Causal Inference; Causal Excursion Effect; Just-In-Time Adaptive Interventions; Micro-randomized Trials; Mobile Health; Time-varying Moderation Effect; Double robustness. 
-
-### Research labs:
-
-- [Mobile Health Group](https://github.com/Herashi/Mobile-Health-Group)
-- [Michigan Statistics for Individualized-healthcare Lab (MiSIL)](https://docs.google.com/spreadsheets/d/1CfHqh74SrGH5zuo8W_L_hAGdLJdt_9jLgaeBtoxYp88/edit#gid=2140082934)
-
+  - Causal Inference 
+  - Sequential Randomization Studies
+  - Longitudinal Data
+  - Data Integration
+  - Conditional Independence Testing
 
 ------
 
-## News:
+## 📣 News
   - 2024.8.4 JSM, Portland, a contributed talk on [A Meta-Learning Method for Estimation of Causal Excursion Effects to Assess Time-Varying Moderation](https://arxiv.org/abs/2306.16297). 
   - 2024.7.24 First invited talk on *"A novel method for assessing time-varying moderation"* in Southampton, UK.
   - 2024.6.16  Received major revisions on [Incorporating Auxiliary Variables to Improve the Efficiency of Time-Varying Treatment Effect Estimation](https://arxiv.org/abs/2306.17260) from *JASA*.
