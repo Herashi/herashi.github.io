@@ -3,119 +3,75 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
-title                    : "Jieru (Hera) Shi"
+title                    : "Jieru Shi (Hera)"
 title_separator          : "-"
 name                     : &name "Jieru Shi"
-description              : &description "personal description"
-url                      : https://herashi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoc at University of Cambridge"
+url                      : "https://herashi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "herashi.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+repository               : "https://herashi.github.io"
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-
-
-# Site Author
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name             : "Jieru Shi"
+  # Biographic information
   avatar           : "profile.png"
+  name             : "Hera Shi"
+  pronouns         : "she/her"  
   bio              : "Postdoc - Statistics Laboratory @ University of Cambridge"
-  location         : 
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=YCUCnI8AAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "Herashi"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hearshi/"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "HeraShi96"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  location         : "Cambridge, UK"
+  employer         : # "Red Brick University"
+  uri              : # URL
+  email            : "js2882@cam.ac.uk" 
 
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=YCUCnI8AAAAJ"
+  impactstory      : # URL
+  orcid            : #"http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "Herashi"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : "hearshi"
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : "HeraShi96"
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
