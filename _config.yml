@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jieru Shi (Hera)"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Jieru Shi"
-description              : &description "Postdoc at University of Cambridge"
+name                     : &name "Jieru Shi (Hera)"
+description              : &description "Personal Website"
 url                      : "https://herashi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://herashi.github.io"
@@ -25,7 +25,7 @@ author:
   name             : "Hera Shi"
   pronouns         : "she/her"  
   bio              : "Postdoc - Statistics Laboratory @ University of Cambridge"
-  location         : "Cambridge, UK"
+  location         : # "Cambridge, UK"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "js2882@cam.ac.uk" 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "HeraShi96"
 facebook:
   username               :
   app_id                 :
