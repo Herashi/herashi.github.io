@@ -15,7 +15,7 @@ Hello! I am a Postdoctoral Research Associate in the Statistical Laboratory, [De
 
 ------
 
-### 📖 Research Keywords:
+## 📖 Research Keywords:
 
   - Causal Inference 
   - Sequential Randomization Studies
